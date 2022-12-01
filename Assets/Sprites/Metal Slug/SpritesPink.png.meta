@@ -1,0 +1,1267 @@
+fileFormatVersion: 2
+guid: 55dac809863987a488d0c7d68de34039
+timeCreated: 1505732051
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpritesPink_0
+    21300002: SpritesPink_1
+    21300004: SpritesPink_2
+    21300006: SpritesPink_3
+    21300008: SpritesPink_4
+    21300010: SpritesPink_5
+    21300012: SpritesPink_6
+    21300014: SpritesPink_7
+    21300016: SpritesPink_8
+    21300018: SpritesPink_9
+    21300020: SpritesPink_10
+    21300022: SpritesPink_11
+    21300024: SpritesPink_12
+    21300026: SpritesPink_13
+    21300028: SpritesPink_14
+    21300030: SpritesPink_15
+    21300032: SpritesPink_16
+    21300034: SpritesPink_17
+    21300036: SpritesPink_18
+    21300038: SpritesPink_19
+    21300040: SpritesPink_20
+    21300042: SpritesPink_21
+    21300044: SpritesPink_22
+    21300046: SpritesPink_23
+    21300048: SpritesPink_24
+    21300050: SpritesPink_25
+    21300052: SpritesPink_26
+    21300054: SpritesPink_27
+    21300056: SpritesPink_28
+    21300058: SpritesPink_29
+    21300060: SpritesPink_30
+    21300062: SpritesPink_31
+    21300064: SpritesPink_32
+    21300066: SpritesPink_33
+    21300068: SpritesPink_34
+    21300070: SpritesPink_35
+    21300072: SpritesPink_36
+    21300074: SpritesPink_37
+    21300076: SpritesPink_38
+    21300078: SpritesPink_39
+    21300080: SpritesPink_40
+    21300082: SpritesPink_41
+    21300084: SpritesPink_42
+    21300086: SpritesPink_43
+    21300088: SpritesPink_44
+    21300090: SpritesPink_45
+    21300092: SpritesPink_46
+    21300094: SpritesPink_47
+    21300096: SpritesPink_48
+    21300098: SpritesPink_49
+    21300100: SpritesPink_50
+    21300102: SpritesPink_51
+    21300104: SpritesPink_52
+    21300106: SpritesPink_53
+    21300108: SpritesPink_54
+    21300110: SpritesPink_55
+    21300112: SpritesPink_56
+    21300114: SpritesPink_57
+    21300116: SpritesPink_58
+    21300118: SpritesPink_59
+    21300120: SpritesPink_60
+    21300122: SpritesPink_61
+    21300124: SpritesPink_62
+    21300126: SpritesPink_63
+    21300128: SpritesPink_64
+    21300130: SpritesPink_65
+    21300132: SpritesPink_66
+    21300134: SpritesPink_67
+    21300136: SpritesPink_68
+    21300138: SpritesPink_69
+    21300140: SpritesPink_70
+    21300142: SpritesPink_71
+    21300144: SpritesPink_72
+    21300146: SpritesPink_73
+    21300148: SpritesPink_74
+    21300150: SpritesPink_75
+    21300152: SpritesPink_76
+    21300154: SpritesPink_77
+    21300156: SpritesPink_78
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpritesPink_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_1
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1919
+        width: 88
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_2
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1870
+        width: 76
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_3
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1870
+        width: 75
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1802
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_5
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1802
+        width: 57
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_6
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1802
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 1802
+        width: 54
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_8
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1802
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_9
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1802
+        width: 55
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1878
+        width: 96
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_12
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 1704
+        width: 77
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1705
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1704
+        width: 74
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_15
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1704
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_16
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1703
+        width: 76
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_17
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1703
+        width: 74
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_18
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1699
+        width: 76
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_19
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_20
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_21
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_23
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_24
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1572
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1434
+        width: 57
+        height: 108
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1315
+        width: 98
+        height: 70
+      alignment: 9
+      pivot: {x: 0.35, y: 0.0028652614}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_27
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1315
+        width: 78
+        height: 113
+      alignment: 9
+      pivot: {x: 0.45239416, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_28
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1280
+        width: 73
+        height: 109
+      alignment: 9
+      pivot: {x: 0.5, y: 0.362429}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1316
+        width: 107
+        height: 60
+      alignment: 9
+      pivot: {x: 0.43372068, y: 0.17878418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_30
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 1322
+        width: 107
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4363774, y: 0.1920608}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_31
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1124
+        width: 98
+        height: 90
+      alignment: 9
+      pivot: {x: 0.28568625, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_32
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1127
+        width: 106
+        height: 109
+      alignment: 9
+      pivot: {x: 0.2736092, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_33
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1125
+        width: 102
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2796411, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_34
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1124
+        width: 104
+        height: 92
+      alignment: 9
+      pivot: {x: 0.26501787, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_35
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1124
+        width: 103
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2667912, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_36
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1124
+        width: 103
+        height: 90
+      alignment: 9
+      pivot: {x: 0.27210242, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_37
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1013
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1013
+        width: 74
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1012
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_40
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1012
+        width: 72
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_41
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 1013
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_42
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1011
+        width: 73
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_43
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1013
+        width: 73
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_44
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 1014
+        width: 74
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_45
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 864
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2678599, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_46
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 862
+        width: 108
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27834985, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_47
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 860
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.26786026, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_48
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 860
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27543005, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_49
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 859
+        width: 107
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27440438, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_50
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 860
+        width: 106
+        height: 108
+      alignment: 9
+      pivot: {x: 0.2775568, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_51
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 676
+        width: 105
+        height: 108
+      alignment: 9
+      pivot: {x: 0.27458194, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_52
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 674
+        width: 102
+        height: 96
+      alignment: 9
+      pivot: {x: 0.27825478, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_53
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 673
+        width: 97
+        height: 92
+      alignment: 9
+      pivot: {x: 0.28005448, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_54
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 673
+        width: 87
+        height: 95
+      alignment: 9
+      pivot: {x: 0.31951624, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_55
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 673
+        width: 93
+        height: 91
+      alignment: 9
+      pivot: {x: 0.30388618, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_56
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 673
+        width: 99
+        height: 91
+      alignment: 9
+      pivot: {x: 0.29664564, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_57
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 508
+        width: 66
+        height: 141
+      alignment: 9
+      pivot: {x: 0.4325468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 318
+        width: 104
+        height: 107
+      alignment: 9
+      pivot: {x: 0.75519496, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_59
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 307
+        width: 96
+        height: 111
+      alignment: 9
+      pivot: {x: 0.7211692, y: 0.10042235}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_60
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 281
+        width: 73
+        height: 133
+      alignment: 9
+      pivot: {x: 0.3582099, y: 0.2913442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_61
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 318
+        width: 112
+        height: 94
+      alignment: 9
+      pivot: {x: 0.3293844, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_62
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 318
+        width: 93
+        height: 101
+      alignment: 9
+      pivot: {x: 0.38299495, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_63
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 317
+        width: 60
+        height: 124
+      alignment: 9
+      pivot: {x: 0.5663513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 108
+        height: 109
+      alignment: 9
+      pivot: {x: 0.755195, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_65
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 132
+        width: 95
+        height: 112
+      alignment: 9
+      pivot: {x: 0.7211692, y: 0.1004224}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_66
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 107
+        width: 71
+        height: 133
+      alignment: 9
+      pivot: {x: 0.3582099, y: 0.2913442}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_68
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 142
+        width: 93
+        height: 103
+      alignment: 9
+      pivot: {x: 0.3829949, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_69
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 142
+        width: 61
+        height: 126
+      alignment: 9
+      pivot: {x: 0.5663513, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_70
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1320
+        width: 104
+        height: 58
+      alignment: 9
+      pivot: {x: 0.4424415, y: 0.1920629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_71
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1321
+        width: 101
+        height: 57
+      alignment: 9
+      pivot: {x: 0.45823202, y: 0.19206372}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_72
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1452
+        width: 99
+        height: 71
+      alignment: 9
+      pivot: {x: 0.35, y: 0.002865261}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_73
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1453
+        width: 92
+        height: 70
+      alignment: 9
+      pivot: {x: 0.39385888, y: 0.0028651645}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_74
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1421
+        width: 73
+        height: 106
+      alignment: 9
+      pivot: {x: 0.4960373, y: 0.33984146}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_75
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 501
+        width: 66
+        height: 137
+      alignment: 9
+      pivot: {x: 0.4325468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_76
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 501
+        width: 66
+        height: 131
+      alignment: 9
+      pivot: {x: 0.4325468, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_77
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1452
+        width: 79
+        height: 103
+      alignment: 9
+      pivot: {x: 0.4523942, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_67
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 144
+        width: 111
+        height: 92
+      alignment: 9
+      pivot: {x: 0.3293844, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpritesPink_78
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1920
+        width: 90
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: ac9bc30980ed282498922f31b1a25124
+timeCreated: 1505376065
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Louacher_0
+    21300002: Louacher_1
+    21300004: Louacher_2
+    21300006: Louacher_3
+    21300008: Louacher_4
+    21300010: Louacher_5
+    21300012: Louacher_6
+    21300014: Louacher_7
+    21300016: Louacher_8
+    21300018: Louacher_9
+    21300020: Louacher_10
+    21300022: Louacher_11
+    21300024: Louacher_12
+    21300026: Louacher_13
+    21300028: Louacher_14
+    21300030: Louacher_16
+    21300032: Louacher_17
+    21300034: Louacher_18
+    21300036: Louacher_19
+    21300038: Louacher_20
+    21300040: Louacher_21
+    21300042: Louacher_22
+    21300044: Louacher_23
+    21300046: Louacher_25
+    21300048: Louacher_26
+    21300050: Louacher_28
+    21300052: Louacher_29
+    21300054: Louacher_31
+    21300056: Louacher_32
+    21300058: Louacher_39
+    21300060: Louacher_40
+    21300062: Louacher_44
+    21300064: Louacher_46
+    21300066: Louacher_48
+    21300068: Louacher_49
+    21300070: Louacher_50
+    21300072: Louacher_51
+    21300074: Louacher_53
+    21300076: Louacher_55
+    21300078: Louacher_61
+    21300080: Louacher_66
+    21300082: Louacher_71
+    21300084: Louacher_73
+    21300086: Louacher_79
+    21300088: Louacher_84
+    21300090: Louacher_89
+    21300092: Louacher_93
+    21300094: Louacher_94
+    21300096: Louacher_95
+    21300098: Louacher_96
+    21300100: Louacher_98
+    21300102: Louacher_99
+    21300104: Louacher_101
+    21300106: Louacher_104
+    21300108: Louacher_109
+    21300110: Louacher_110
+    21300112: Louacher_111
+    21300114: Louacher_113
+    21300116: Louacher_115
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Louacher_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 783
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 783
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_2
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_4
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_7
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 702
+        width: 80
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_8
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 576
+        width: 92
+        height: 107
+      alignment: 9
+      pivot: {x: 0.57160664, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_9
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 576
+        width: 80
+        height: 96
+      alignment: 9
+      pivot: {x: 0.50484407, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_10
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 576
+        width: 81
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 463
+        width: 93
+        height: 92
+      alignment: 9
+      pivot: {x: 0.55833614, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_12
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 463
+        width: 83
+        height: 92
+      alignment: 9
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 464
+        width: 83
+        height: 92
+      alignment: 9
+      pivot: {x: 0.50466883, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 459
+        width: 85
+        height: 96
+      alignment: 9
+      pivot: {x: 0.54103106, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 344
+        width: 80
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5129956, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 344
+        width: 80
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5145319, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_18
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 344
+        width: 86
+        height: 80
+      alignment: 9
+      pivot: {x: 0.47211704, y: -0.00000038146973}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_19
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 344
+        width: 94
+        height: 80
+      alignment: 9
+      pivot: {x: 0.43816197, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 344
+        width: 96
+        height: 80
+      alignment: 9
+      pivot: {x: 0.43137646, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_21
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 387
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258
+        width: 101
+        height: 82
+      alignment: 9
+      pivot: {x: 0.41388476, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 258
+        width: 102
+        height: 83
+      alignment: 9
+      pivot: {x: 0.3974216, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 258
+        width: 105
+        height: 82
+      alignment: 9
+      pivot: {x: 0.38558975, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_31
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 258
+        width: 109
+        height: 80
+      alignment: 9
+      pivot: {x: 0.37201235, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_46
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 236
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_48
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 173
+        width: 111
+        height: 80
+      alignment: 9
+      pivot: {x: 0.3673361, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_49
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 238
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 236
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_51
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 173
+        width: 111
+        height: 80
+      alignment: 9
+      pivot: {x: 0.37082708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 108
+        height: 79
+      alignment: 9
+      pivot: {x: 0.37800348, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_55
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 173
+        width: 111
+        height: 82
+      alignment: 9
+      pivot: {x: 0.37082708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_61
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 215
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 87
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.36362347, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_79
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 87
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.36686558, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_84
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 87
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.36773792, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_89
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 87
+        width: 112
+        height: 83
+      alignment: 9
+      pivot: {x: 0.36940792, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_101
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 96
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 84
+      alignment: 9
+      pivot: {x: 0.36785105, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_113
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 0
+        width: 112
+        height: 82
+      alignment: 9
+      pivot: {x: 0.3650604, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Louacher_115
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 0
+        width: 111
+        height: 62
+      alignment: 9
+      pivot: {x: 0.37082708, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

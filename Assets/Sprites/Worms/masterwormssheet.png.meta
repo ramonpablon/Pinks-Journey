@@ -1,0 +1,3533 @@
+fileFormatVersion: 2
+guid: 9de7f735f1521b949b85a56356eadeef
+timeCreated: 1505778371
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: masterwormssheet_0
+    21300002: masterwormssheet_1
+    21300004: masterwormssheet_2
+    21300006: masterwormssheet_3
+    21300008: masterwormssheet_4
+    21300010: masterwormssheet_5
+    21300012: masterwormssheet_6
+    21300014: masterwormssheet_7
+    21300016: masterwormssheet_8
+    21300018: masterwormssheet_9
+    21300020: masterwormssheet_10
+    21300022: masterwormssheet_11
+    21300024: 3
+    21300026: 2
+    21300028: masterwormssheet_14
+    21300030: 1
+    21300032: masterwormssheet_16
+    21300034: masterwormssheet_17
+    21300036: masterwormssheet_18
+    21300038: masterwormssheet_19
+    21300040: masterwormssheet_20
+    21300042: masterwormssheet_21
+    21300044: masterwormssheet_22
+    21300046: masterwormssheet_23
+    21300048: masterwormssheet_24
+    21300050: masterwormssheet_25
+    21300052: 8
+    21300054: 9
+    21300056: 10
+    21300058: masterwormssheet_29
+    21300060: masterwormssheet_30
+    21300062: masterwormssheet_31
+    21300064: masterwormssheet_32
+    21300066: masterwormssheet_33
+    21300068: masterwormssheet_34
+    21300070: masterwormssheet_35
+    21300072: masterwormssheet_36
+    21300074: masterwormssheet_37
+    21300076: masterwormssheet_38
+    21300078: masterwormssheet_39
+    21300080: masterwormssheet_40
+    21300082: masterwormssheet_41
+    21300084: masterwormssheet_42
+    21300086: masterwormssheet_43
+    21300088: masterwormssheet_44
+    21300090: masterwormssheet_45
+    21300092: masterwormssheet_46
+    21300094: masterwormssheet_47
+    21300096: masterwormssheet_48
+    21300098: masterwormssheet_49
+    21300100: masterwormssheet_50
+    21300102: masterwormssheet_51
+    21300104: masterwormssheet_52
+    21300106: masterwormssheet_53
+    21300108: masterwormssheet_54
+    21300110: masterwormssheet_55
+    21300112: masterwormssheet_56
+    21300114: masterwormssheet_57
+    21300116: masterwormssheet_58
+    21300118: masterwormssheet_59
+    21300120: masterwormssheet_60
+    21300122: masterwormssheet_61
+    21300124: masterwormssheet_62
+    21300126: masterwormssheet_63
+    21300128: masterwormssheet_64
+    21300130: masterwormssheet_65
+    21300132: masterwormssheet_66
+    21300134: masterwormssheet_67
+    21300136: masterwormssheet_68
+    21300138: masterwormssheet_69
+    21300140: masterwormssheet_70
+    21300142: masterwormssheet_71
+    21300144: masterwormssheet_72
+    21300146: masterwormssheet_73
+    21300148: masterwormssheet_74
+    21300150: masterwormssheet_75
+    21300152: masterwormssheet_76
+    21300154: masterwormssheet_77
+    21300156: masterwormssheet_78
+    21300158: masterwormssheet_79
+    21300160: masterwormssheet_80
+    21300162: masterwormssheet_81
+    21300164: masterwormssheet_82
+    21300166: masterwormssheet_83
+    21300168: masterwormssheet_84
+    21300170: masterwormssheet_85
+    21300172: masterwormssheet_86
+    21300174: masterwormssheet_87
+    21300176: masterwormssheet_88
+    21300178: masterwormssheet_89
+    21300180: masterwormssheet_90
+    21300182: masterwormssheet_91
+    21300184: masterwormssheet_92
+    21300186: masterwormssheet_93
+    21300188: masterwormssheet_94
+    21300190: masterwormssheet_95
+    21300192: masterwormssheet_96
+    21300194: masterwormssheet_97
+    21300196: masterwormssheet_98
+    21300198: masterwormssheet_99
+    21300200: masterwormssheet_100
+    21300202: masterwormssheet_101
+    21300204: 4
+    21300206: masterwormssheet_103
+    21300208: masterwormssheet_104
+    21300210: masterwormssheet_105
+    21300212: masterwormssheet_106
+    21300214: masterwormssheet_107
+    21300216: masterwormssheet_108
+    21300218: masterwormssheet_109
+    21300220: masterwormssheet_110
+    21300222: masterwormssheet_111
+    21300224: masterwormssheet_112
+    21300226: masterwormssheet_113
+    21300228: masterwormssheet_114
+    21300230: masterwormssheet_115
+    21300232: masterwormssheet_116
+    21300234: masterwormssheet_117
+    21300236: masterwormssheet_118
+    21300238: masterwormssheet_119
+    21300240: masterwormssheet_120
+    21300242: masterwormssheet_121
+    21300244: masterwormssheet_122
+    21300246: masterwormssheet_123
+    21300248: masterwormssheet_124
+    21300250: masterwormssheet_125
+    21300252: masterwormssheet_126
+    21300254: masterwormssheet_127
+    21300256: masterwormssheet_128
+    21300258: 5
+    21300260: masterwormssheet_130
+    21300262: masterwormssheet_131
+    21300264: masterwormssheet_132
+    21300266: masterwormssheet_133
+    21300268: masterwormssheet_134
+    21300270: masterwormssheet_135
+    21300272: masterwormssheet_136
+    21300274: masterwormssheet_137
+    21300276: masterwormssheet_138
+    21300278: masterwormssheet_139
+    21300280: masterwormssheet_140
+    21300282: masterwormssheet_141
+    21300284: masterwormssheet_142
+    21300286: masterwormssheet_143
+    21300288: masterwormssheet_144
+    21300290: masterwormssheet_145
+    21300292: masterwormssheet_146
+    21300294: masterwormssheet_147
+    21300296: 6
+    21300298: masterwormssheet_149
+    21300300: masterwormssheet_150
+    21300302: masterwormssheet_151
+    21300304: masterwormssheet_152
+    21300306: masterwormssheet_153
+    21300308: masterwormssheet_154
+    21300310: masterwormssheet_155
+    21300312: masterwormssheet_156
+    21300314: masterwormssheet_157
+    21300316: 12
+    21300318: masterwormssheet_159
+    21300320: masterwormssheet_160
+    21300322: masterwormssheet_161
+    21300324: masterwormssheet_162
+    21300326: masterwormssheet_163
+    21300328: masterwormssheet_164
+    21300330: masterwormssheet_165
+    21300332: masterwormssheet_166
+    21300334: 7
+    21300336: masterwormssheet_168
+    21300338: masterwormssheet_169
+    21300340: masterwormssheet_170
+    21300342: masterwormssheet_171
+    21300344: masterwormssheet_172
+    21300346: masterwormssheet_173
+    21300348: masterwormssheet_174
+    21300350: masterwormssheet_175
+    21300352: masterwormssheet_176
+    21300354: masterwormssheet_177
+    21300356: masterwormssheet_178
+    21300358: masterwormssheet_179
+    21300360: masterwormssheet_180
+    21300362: masterwormssheet_181
+    21300364: masterwormssheet_182
+    21300366: masterwormssheet_183
+    21300368: masterwormssheet_184
+    21300370: masterwormssheet_185
+    21300372: masterwormssheet_186
+    21300374: masterwormssheet_187
+    21300376: masterwormssheet_188
+    21300378: 11
+    21300380: masterwormssheet_190
+    21300382: masterwormssheet_191
+    21300384: masterwormssheet_192
+    21300386: masterwormssheet_193
+    21300388: masterwormssheet_194
+    21300390: masterwormssheet_195
+    21300392: masterwormssheet_196
+    21300394: masterwormssheet_197
+    21300396: masterwormssheet_198
+    21300398: masterwormssheet_199
+    21300400: masterwormssheet_200
+    21300402: masterwormssheet_201
+    21300404: masterwormssheet_202
+    21300406: masterwormssheet_203
+    21300408: masterwormssheet_204
+    21300410: masterwormssheet_205
+    21300412: masterwormssheet_206
+    21300414: masterwormssheet_207
+    21300416: masterwormssheet_208
+    21300418: masterwormssheet_209
+    21300420: masterwormssheet_210
+    21300422: masterwormssheet_211
+    21300424: masterwormssheet_212
+    21300426: masterwormssheet_213
+    21300428: masterwormssheet_214
+    21300430: masterwormssheet_215
+    21300432: masterwormssheet_216
+    21300434: masterwormssheet_217
+    21300436: masterwormssheet_218
+    21300438: masterwormssheet_219
+    21300440: masterwormssheet_220
+    21300442: masterwormssheet_221
+    21300444: masterwormssheet_222
+    21300446: masterwormssheet_223
+    21300448: masterwormssheet_224
+    21300450: masterwormssheet_225
+    21300452: masterwormssheet_226
+    21300454: masterwormssheet_227
+    21300456: masterwormssheet_228
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: masterwormssheet_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 501
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 501
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 501
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_3
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 501
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_4
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 501
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_5
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 501
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_6
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 498
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_7
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 493
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_8
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 477
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 490
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 460
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 482
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 3
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 488
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 2
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 487
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 488
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 485
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_16
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 75
+        width: 20
+        height: 447
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_17
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 381
+        width: 130
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_18
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 472
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_19
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_21
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_22
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_23
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 472
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_24
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 423
+        width: 43
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_25
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 419
+        width: 40
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 8
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 452
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 9
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 452
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 451
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 443
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_31
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_32
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_33
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_34
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 443
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_35
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 449
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_36
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 439
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_37
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 409
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_38
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 430
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_39
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 422
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 414
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_42
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_43
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_44
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 414
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_46
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 422
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_47
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 422
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_48
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 422
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_49
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 422
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_50
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 385
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_51
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 385
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_52
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 385
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_53
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 385
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 387
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 385
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_56
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 357
+        width: 94
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 405
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_58
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 406
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_59
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 392
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_60
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 392
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_61
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 400
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_62
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 402
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_63
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 392
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_64
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 392
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_65
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 278
+        width: 17
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_66
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 314
+        width: 77
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_67
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 392
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_68
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 393
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_69
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 356
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_70
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 356
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_71
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 356
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_72
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 356
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_73
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 356
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_74
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 356
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_75
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 382
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_76
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 362
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_77
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 362
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_78
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 350
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_79
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 327
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_80
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 327
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_81
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 327
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_82
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 327
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_83
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 327
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_84
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 327
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_85
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 348
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_86
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 332
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_87
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 331
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_88
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 331
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_89
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 331
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_90
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 65
+        width: 155
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_91
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 298
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_92
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 298
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_93
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 298
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_94
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 298
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_95
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 298
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 298
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_97
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 292
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_98
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 274
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_99
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 301
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_100
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 315
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_101
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 310
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 4
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 300
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_103
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 269
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_104
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 269
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_105
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 269
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_106
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 269
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 269
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_108
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 269
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_109
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 291
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_110
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 245
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_111
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 275
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_112
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 272
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_113
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 272
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_114
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 272
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_115
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 272
+        width: 46
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_116
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 265
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_117
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 268
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_118
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 240
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_119
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_121
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_122
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_123
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 242
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_124
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 238
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_125
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 232
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_126
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 239
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_127
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 240
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_128
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 240
+        width: 31
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 5
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 238
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 211
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_131
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_132
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 211
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_133
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 213
+        width: 12
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_134
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 216
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 223
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_136
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 229
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_137
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 210
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_138
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 202
+        width: 24
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_139
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 212
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_140
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 220
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_141
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 233
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_142
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 214
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_143
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 219
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_144
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 196
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_145
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 196
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_146
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 196
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_147
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 213
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 6
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 192
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_149
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 217
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_150
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 210
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_151
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 182
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_152
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_153
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 187
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_154
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 184
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_155
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_156
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 182
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_157
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 196
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 12
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 161
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_159
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 164
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_160
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_161
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 162
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_162
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 161
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_163
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 160
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_164
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 153
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_165
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 161
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_166
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 163
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 7
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 160
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_168
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 180
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_169
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 157
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_170
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 156
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_171
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 156
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_172
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 167
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_173
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 155
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_174
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 160
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_175
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 161
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_176
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_177
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 156
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_178
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 155
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_179
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 122
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_180
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 126
+        width: 49
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_181
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 128
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_182
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 127
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_183
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 127
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_184
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 128
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_185
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 140
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_186
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 138
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_187
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 122
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_188
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 122
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: 11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 121
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_190
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 121
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_191
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 126
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_192
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 126
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_193
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_194
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 97
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_195
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 81
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_196
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_197
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 81
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_198
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 80
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_199
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 104
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_200
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 81
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_201
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 81
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_202
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 102
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_203
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 81
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_204
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 72
+        width: 152
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_205
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 78
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_206
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 82
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_207
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 88
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_208
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 82
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_209
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 81
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_210
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_211
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 71
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_212
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 35
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_213
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 39
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_214
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 45
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_215
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 64
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_216
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 57
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_217
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 35
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_218
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 35
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_219
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 36
+        width: 19
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_220
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 40
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_221
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_222
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 47
+        width: 4
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_223
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 35
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_224
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 45
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_225
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 47
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_226
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 5
+        width: 420
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_227
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 35
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: masterwormssheet_228
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5
+        width: 138
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
